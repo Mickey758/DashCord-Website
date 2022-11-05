@@ -124,3 +124,15 @@ h1{font-family: Ginto Nord, Whitney, Helvetica Neue, Helvetica, Arial, sans-seri
     font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;;
     font-weight: 400;
 }
+.header{
+    font-family: "Ginto Normal","Whitney","Helvetica Neue","Helvetica","Arial",sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    color: #23272a;
+}
+.info{
+    font-family: Whitney,Helvetica Neue,Helvetica,Arial,sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #23272a;
+}
